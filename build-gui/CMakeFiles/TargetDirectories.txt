@@ -1,0 +1,11 @@
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/poisson_fuzzy.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/pf_console_demo.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/pf_gui.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/edit_cache.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/rebuild_cache.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/list_install_components.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/install.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/install/local.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/install/strip.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/pf_gui_autogen_timestamp_deps.dir
+/home/aly/poisson-fuzzy/build-gui/CMakeFiles/pf_gui_autogen.dir

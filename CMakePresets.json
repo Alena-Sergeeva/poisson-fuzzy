@@ -1,0 +1,28 @@
+{
+  "version": 6,
+  "configurePresets": [
+    {
+      "name": "release",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/release",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_INSTALL_PREFIX": "${sourceDir}/install",
+        "PF_BUILD_EXAMPLES": "ON"
+      }
+    },
+    {
+      "name": "gui",
+      "inherits": "release",
+      "binaryDir": "${sourceDir}/build/gui",
+      "cacheVariables": { "PF_BUILD_GUI": "ON" }
+    }
+  ],
+  "buildPresets": [
+    { "name": "release", "configurePreset": "release" },
+    { "name": "gui",     "configurePreset": "gui" }
+  ],
+  "installPresets": [
+    { "name": "release", "configurePreset": "release" }
+  ]
+}

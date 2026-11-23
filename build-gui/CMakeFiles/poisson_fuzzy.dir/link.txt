@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpoisson_fuzzy.a CMakeFiles/poisson_fuzzy.dir/src/fuzzy.cpp.o CMakeFiles/poisson_fuzzy.dir/src/poisson.cpp.o CMakeFiles/poisson_fuzzy.dir/src/clustering.cpp.o
+/usr/bin/ranlib libpoisson_fuzzy.a

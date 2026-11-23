@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/pf_console_demo.dir/examples/console_demo.cpp.o -o pf_console_demo  libpoisson_fuzzy.a 
