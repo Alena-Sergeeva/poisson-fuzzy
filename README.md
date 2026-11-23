@@ -47,4 +47,4 @@ cmake -S . -B build-gui -DPF_BUILD_GUI=ON
 cmake --build build-gui
 ./build-gui/pf_gui
 
-git config --global user.email "you@example.com"
+
